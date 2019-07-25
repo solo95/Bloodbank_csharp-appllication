@@ -1,0 +1,63 @@
+c:\users\maliha\documents\visual studio 2015\Projects\blood bank1\blood bank1\bin\Debug\blood bank1.exe.config
+C:\Users\maliha\documents\visual studio 2015\Projects\blood bank1\blood bank1\bin\Debug\blood bank1.exe
+C:\Users\maliha\documents\visual studio 2015\Projects\blood bank1\blood bank1\bin\Debug\blood bank1.pdb
+C:\Users\maliha\documents\visual studio 2015\Projects\blood bank1\blood bank1\obj\Debug\blood bank1.csprojResolveAssemblyReference.cache
+C:\Users\maliha\documents\visual studio 2015\Projects\blood bank1\blood bank1\obj\Debug\blood_bank1.Form1.resources
+C:\Users\maliha\documents\visual studio 2015\Projects\blood bank1\blood bank1\obj\Debug\blood_bank1.Properties.Resources.resources
+C:\Users\maliha\documents\visual studio 2015\Projects\blood bank1\blood bank1\obj\Debug\blood bank1.csproj.GenerateResource.Cache
+C:\Users\maliha\documents\visual studio 2015\Projects\blood bank1\blood bank1\obj\Debug\blood bank1.exe
+C:\Users\maliha\documents\visual studio 2015\Projects\blood bank1\blood bank1\obj\Debug\blood bank1.pdb
+C:\Users\maliha\documents\visual studio 2015\Projects\blood bank1\blood bank1\obj\Debug\blood_bank1.admin.resources
+C:\Users\maliha\documents\visual studio 2015\Projects\blood bank1\blood bank1\obj\Debug\blood_bank1.doner.resources
+C:\Users\William\Desktop\blood bank1\blood bank1\bin\Debug\blood bank1.exe.config
+C:\Users\William\Desktop\blood bank1\blood bank1\obj\Debug\blood bank1.exe
+C:\Users\William\Desktop\blood bank1\blood bank1\obj\Debug\blood bank1.pdb
+C:\Users\William\Desktop\blood bank1\blood bank1\bin\Debug\blood bank1.exe
+C:\Users\William\Desktop\blood bank1\blood bank1\bin\Debug\blood bank1.pdb
+C:\Users\William\Desktop\blood bank1\blood bank1\obj\Debug\blood bank1.csprojResolveAssemblyReference.cache
+C:\Users\William\Desktop\blood bank1\blood bank1\obj\Debug\blood_bank1.admin.resources
+C:\Users\William\Desktop\blood bank1\blood bank1\obj\Debug\blood_bank1.doner.resources
+C:\Users\William\Desktop\blood bank1\blood bank1\obj\Debug\blood_bank1.Form1.resources
+C:\Users\William\Desktop\blood bank1\blood bank1\obj\Debug\blood_bank1.Properties.Resources.resources
+C:\Users\William\Desktop\blood bank1\blood bank1\obj\Debug\blood bank1.csproj.GenerateResource.Cache
+C:\Users\William\Desktop\blood bank11\blood bank1\bin\Debug\blood bank1.exe.config
+C:\Users\William\Desktop\blood bank11\blood bank1\obj\Debug\blood bank1.exe
+C:\Users\William\Desktop\blood bank11\blood bank1\obj\Debug\blood bank1.pdb
+C:\Users\William\Desktop\blood bank11\blood bank1\bin\Debug\blood bank1.exe
+C:\Users\William\Desktop\blood bank11\blood bank1\bin\Debug\blood bank1.pdb
+C:\Users\William\Desktop\blood bank11\blood bank1\obj\Debug\blood bank1.csprojResolveAssemblyReference.cache
+C:\Users\William\Desktop\blood bank11\blood bank1\obj\Debug\blood_bank1.Properties.Resources.resources
+C:\Users\William\Desktop\blood bank11\blood bank1\obj\Debug\blood bank1.csproj.GenerateResource.Cache
+C:\Users\William\Desktop\proj backups\blood bank11\blood bank1\bin\Debug\blood bank1.exe.config
+C:\Users\William\Desktop\proj backups\blood bank11\blood bank1\obj\Debug\blood bank1.exe
+C:\Users\William\Desktop\proj backups\blood bank11\blood bank1\obj\Debug\blood bank1.pdb
+C:\Users\William\Desktop\proj backups\blood bank11\blood bank1\bin\Debug\blood bank1.exe
+C:\Users\William\Desktop\proj backups\blood bank11\blood bank1\bin\Debug\blood bank1.pdb
+C:\Users\William\Desktop\proj backups\blood bank11\blood bank1\obj\Debug\blood bank1.csprojResolveAssemblyReference.cache
+C:\Users\William\Desktop\proj backups\blood bank11\blood bank1\obj\Debug\blood_bank1.admin.resources
+C:\Users\William\Desktop\proj backups\blood bank11\blood bank1\obj\Debug\blood_bank1.doner.resources
+C:\Users\William\Desktop\proj backups\blood bank11\blood bank1\obj\Debug\blood_bank1.Form1.resources
+C:\Users\William\Desktop\proj backups\blood bank11\blood bank1\obj\Debug\blood_bank1.Properties.Resources.resources
+C:\Users\William\Desktop\proj backups\blood bank11\blood bank1\obj\Debug\blood bank1.csproj.GenerateResource.Cache
+C:\Users\William\Desktop\proj backups\blood bank11\blood bank1\obj\Debug\blood_bank1.Kan.resources
+C:\Users\William\Desktop\proj backups\blood bank11\blood bank1\obj\Debug\blood_bank1.Hesap.resources
+C:\Users\William\Desktop\blood bank11\blood bank1\obj\Debug\blood_bank1.Hesap.resources
+C:\Users\William\Desktop\blood bank11\blood bank1\obj\Debug\blood_bank1.Kan.resources
+C:\Users\William\Desktop\blood bank11\blood bank1\obj\Debug\blood_bank1.menu.resources
+C:\Users\William\Desktop\blood bank11\blood bank1\obj\Debug\blood_bank1.Login.resources
+C:\Users\William\Desktop\blood bank11\blood bank1\obj\Debug\blood_bank1.KanVerici.resources
+C:\Users\William\Desktop\final\blood bank1\bin\Debug\blood bank1.exe.config
+C:\Users\William\Desktop\final\blood bank1\obj\Debug\blood bank1.exe
+C:\Users\William\Desktop\final\blood bank1\obj\Debug\blood bank1.pdb
+C:\Users\William\Desktop\final\blood bank1\bin\Debug\blood bank1.exe
+C:\Users\William\Desktop\final\blood bank1\bin\Debug\blood bank1.pdb
+C:\Users\William\Desktop\final\blood bank1\obj\Debug\blood bank1.csprojResolveAssemblyReference.cache
+C:\Users\William\Desktop\final\blood bank1\obj\Debug\blood_bank1.Hesap.resources
+C:\Users\William\Desktop\final\blood bank1\obj\Debug\blood_bank1.menu.resources
+C:\Users\William\Desktop\final\blood bank1\obj\Debug\blood_bank1.KanVerici.resources
+C:\Users\William\Desktop\final\blood bank1\obj\Debug\blood_bank1.Login.resources
+C:\Users\William\Desktop\final\blood bank1\obj\Debug\blood_bank1.Kan.resources
+C:\Users\William\Desktop\final\blood bank1\obj\Debug\blood_bank1.Properties.Resources.resources
+C:\Users\William\Desktop\final\blood bank1\obj\Debug\blood bank1.csproj.GenerateResource.Cache
+C:\Users\swsim\Desktop\Mahliha-ve-solomon~\Mahliha ve solomon\121620131096,121620131095\blood bank1\obj\Debug\blood bank1.exe
+C:\Users\swsim\Desktop\Mahliha-ve-solomon~\Mahliha ve solomon\121620131096,121620131095\blood bank1\obj\Debug\blood bank1.pdb
